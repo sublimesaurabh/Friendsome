@@ -3,5 +3,7 @@ content-Type: application/json
 
 
 {
-    "fullname": "John"
+    "fullname": "John",
+    "major" : "Information System",
+    "email": "john@mail.com"
 }
